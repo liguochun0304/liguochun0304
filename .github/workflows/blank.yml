@@ -32,7 +32,6 @@ jobs:
           user: liguochun0304
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
-          config_octicon: yes
           config_timezone: Asia/Shanghai
-          config_twemoji: yes
+          config_display: large
+
