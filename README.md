@@ -1,4 +1,5 @@
 ## Hi, I'm Li Guochun!
+![Metrics](/github-metrics.svg)
 - 🎓 Jointly-trained Master at Harbin University of Science and Technology & Institute of Automation, CAS
 - 🔍 Research Focus: Knowledge Graph, Large Language Model
   - Social Media Public Opinion Analysis
