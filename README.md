@@ -44,3 +44,5 @@
   A lightweight open-source Flask backend framework with integrated Swagger docs for MCP tool development, implements core MCP interfaces and **Multi-Agent** functional capabilities for LLM-based research and development.
   [![Stars](https://img.shields.io/github/stars/liguochun0304/flask-mcp-demo?style=flat-square&logo=github)](https://github.com/liguochun0304/flask-mcp-demo)
   [![Forks](https://img.shields.io/github/forks/liguochun0304/flask-mcp-demo?style=flat-square&logo=github)](https://github.com/liguochun0304/flask-mcp-demo)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liguochun0304)
