@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: liguochun0304/metrics@latest
+      - uses: liguochun0304/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
