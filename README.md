@@ -10,7 +10,7 @@
   - Interned at Xiaomi Corporation
   - Research Intern at Institute of Automation, Chinese Academy of Sciences
 - 🎯 I enjoy traveling, watching movies, and continuous learning in daily life
-- 🌐 Web: https://github.com/liguochun0304/liguochun.github.io
+- 🌐 Web: [https://github.com/liguochun0304/liguochun.github.io](https://liguochun0304.github.io/liguochun.github.io/)
 - 📫 How to reach me: liguochun0304@163.com
 
 
