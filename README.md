@@ -18,25 +18,25 @@
 ## Research Work
 ### Multimodal Named Entity Recognition & Relation Extraction
 - [AFNER](https://github.com/liguochun0304/AFNER): Multimodal Named Entity Recognition on Social Media Platforms [paper 🚧 (TBD)]
-  Addresses the poor adaptability of traditional single-modal methods to heterogeneous (text + multimodal) social media data; improves named entity recognition accuracy in complex scenarios via fusing multimodal features and platform-specific adaptation strategies.
-
+  Focus on heterogeneous text-image social media data; adopt **BERT** (text) + **CLIP** (image) encoding, **BiLSTM** modeling, and text-image similarity based auxiliary loss to enhance cross-modal alignment for multimodal NER.
+  
 - **A Feature-Enhanced Joint Relation Extraction Neural Network Based on State Space Models** [paper 📄](https://ieeexplore.ieee.org/document/11085607)
-  Proposes a low-resource multimodal information extraction framework that solves the data scarcity problem in specialized domains; achieves efficient feature alignment between text and visual modalities through a lightweight cross-modal attention mechanism.
-
+  Addresses multi-relational triplet extraction, long-distance dependencies, and similar relation challenges in joint entity-relation extraction. Integrates **Mamba2** module + parallel multi-head attention for semantic capture, with a feature enhancement module to mitigate data scarcity and fine-grained redundancy. Achieves SOTA performance on HacRED dataset (F1=64.5) for multi-relational extraction tasks.
+  
 ### Social Media Public Opinion Analysis
 - [OctoSmartGraph](https://github.com/liguochun0304/OctoSmartGraph): Knowledge Graph-Driven Social Media Public Opinion Analysis System [paper 🚧 (TBD)]
-  Addresses the challenges of scattered public opinion data, ambiguous semantic relevance, and low real-time analysis in social media; constructs a domain-specific knowledge graph for public opinion entities (e.g., events, users, topics) and integrates LLM-based sentiment analysis and event evolution tracking. Supports real-time monitoring of public opinion trends, key node identification, and risk early warning in complex scenarios.
+  Based on **LLM** and **Multi-Agent** framework, constructs knowledge graphs for social media hot topics, and completes analysis of hot events to generate structured event analysis reports.
   
 ### Multimodal Datasets
 - [NewsMKG](https://github.com/liguochun0304/NewsMKG): A Benchmark Towards Multimodal Knowledge Graph Extraction [paper 🚧 (TBD)]
-  A large-scale multimodal knowledge graph extraction dataset constructed based on real-world news data. Contains over [X] samples covering multiple domains (e.g., politics, economics, technology) with rich multimodal information (text, images, tables). Each sample is annotated with entity types, relation triples, and cross-modal alignment labels, supporting tasks such as multimodal named entity recognition, relation extraction, and knowledge graph construction. Designed to address the lack of high-quality multimodal KG datasets and promote research in cross-modal knowledge extraction.
+  A large-scale multimodal KG extraction dataset built from real-world news via **data collection → LLM-based pre-annotation → manual verification**. Covers politics, economics, technology, etc., with text/images/tables; annotated with entities, relation triples, and cross-modal alignment labels, supporting multimodal NER, relation extraction, and KG construction. Addresses the scarcity of high-quality multimodal KG datasets.
   [![Stars](https://img.shields.io/github/stars/liguochun0304/NewsMKG?style=flat-square&logo=github)](https://github.com/liguochun0304/NewsMKG)
   [![Forks](https://img.shields.io/github/forks/liguochun0304/NewsMKG?style=flat-square&logo=github)](https://github.com/liguochun0304/NewsMKG)
 
 ## Open Source Projects
 ### Technical Tools & Frameworks (System-Level)
 - [docker-quick-reference](https://github.com/liguochun0304/docker-quick-reference): Docker Practical Guide & Cheat Sheet 📚
-  A concise and practical Docker reference document designed for developers and researchers. Covers core concepts, common commands, container orchestration, image building, and troubleshooting solutions. Features quick search, example-driven explanations, and scenario-based configuration templates to help users quickly master Docker for project deployment and environment management.
+  A concise basic operation guide tailored for Docker beginners in laboratories. Covers core concepts, common commands, image building, basic configuration templates, and common troubleshooting. Features example-driven explanations for quick上手 (quick start) in project deployment and environment management without in-depth learning.
   [![Stars](https://img.shields.io/github/stars/liguochun0304/docker-quick-reference?style=flat-square&logo=github)](https://github.com/liguochun0304/docker-quick-reference)
   [![Forks](https://img.shields.io/github/forks/liguochun0304/docker-quick-reference?style=flat-square&logo=github)](https://github.com/liguochun0304/docker-quick-reference)
 
