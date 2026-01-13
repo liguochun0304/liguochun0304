@@ -1,3 +1,4 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -8,16 +9,16 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
-      - uses: liguochun0304/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -26,7 +27,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Peter-JXL
+          user: liguochun
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
+          config_octicon: yes
           config_timezone: Asia/Shanghai
+          config_twemoji: yes
+          plugin_posts: yes
+          plugin_posts_limit: 4
+          plugin_posts_user: .user.login
+          plugin_projects: yes
+          plugin_projects_limit: 4
