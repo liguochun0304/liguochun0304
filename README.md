@@ -28,7 +28,7 @@
   Addresses the challenges of scattered public opinion data, ambiguous semantic relevance, and low real-time analysis in social media; constructs a domain-specific knowledge graph for public opinion entities (e.g., events, users, topics) and integrates LLM-based sentiment analysis and event evolution tracking. Supports real-time monitoring of public opinion trends, key node identification, and risk early warning in complex scenarios.
   
 ### Multimodal Datasets
-- [NewsMKG](https://github.com/liguochun0304/NewsMKG): A Benchmark Towards Multimodal Knowledge Graph Extraction 📊 [🚧 In Progress]
+- [NewsMKG](https://github.com/liguochun0304/NewsMKG): A Benchmark Towards Multimodal Knowledge Graph Extraction [paper 🚧 (TBD)]
   A large-scale multimodal knowledge graph extraction dataset constructed based on real-world news data. Contains over [X] samples covering multiple domains (e.g., politics, economics, technology) with rich multimodal information (text, images, tables). Each sample is annotated with entity types, relation triples, and cross-modal alignment labels, supporting tasks such as multimodal named entity recognition, relation extraction, and knowledge graph construction. Designed to address the lack of high-quality multimodal KG datasets and promote research in cross-modal knowledge extraction.
   [![Stars](https://img.shields.io/github/stars/liguochun0304/NewsMKG?style=flat-square&logo=github)](https://github.com/liguochun0304/NewsMKG)
   [![Forks](https://img.shields.io/github/forks/liguochun0304/NewsMKG?style=flat-square&logo=github)](https://github.com/liguochun0304/NewsMKG)
