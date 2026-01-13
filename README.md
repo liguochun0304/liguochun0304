@@ -1,4 +1,5 @@
 ## Hi, I'm Li Guochun!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 - 🎓 I'm a Jointly-trained Master at Harbin University of Science and Technology & Institute of Automation, Chinese Academy of Sciences
 - 🔍 My research focuses on Knowledge Graph and Large Language Model, including:
   - Public Opinion Analysis on Social Media Platforms
