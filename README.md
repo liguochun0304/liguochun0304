@@ -17,9 +17,5 @@
 
 ## Research Work
 ### Multimodal & Information Extraction
-- **AFNER: Multimodal Named Entity Recognition on Social Media Platforms**
+- [AFNER](https://github.com/liguochun0304/AFNER): Multimodal Named Entity Recognition on Social Media Platforms
   Addresses the poor adaptability of traditional single-modal methods to heterogeneous (text + multimodal) social media data; improves named entity recognition accuracy in complex scenarios via fusing multimodal features and platform-specific adaptation strategies.
-
-  [![Stars](https://img.shields.io/github/stars/liguochun0304/AFNER?style=flat-square&logo=github)](https://github.com/liguochun0304/AFNER)
-  [![Forks](https://img.shields.io/github/forks/liguochun0304/AFNER?style=flat-square&logo=github)](https://github.com/liguochun0304/AFNER)
-  [Code Repository](https://github.com/liguochun0304/AFNER)
