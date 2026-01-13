@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Li Guochun!
+- 🎓 I'm a Jointly-trained Master at Harbin University of Science and Technology & Institute of Automation, Chinese Academy of Sciences
+- 🔍 My research focuses on Knowledge Graph and Large Language Model, including:
+  - Public Opinion Analysis on Social Media Platforms
+  - Multimodal Named Entity Recognition and Relation Extraction
+  - Research on UIE Information Extraction Large Model
 
-<!--
-**liguochun0304/liguochun0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm pursuing my Master's degree at Harbin University of Science and Technology
+- 💼 Internship Experience:
+  - Interned at Xiaomi Corporation
+  - Research Intern at Institute of Automation, Chinese Academy of Sciences
+- 🎯 I enjoy traveling, watching movies, and continuous learning in daily life
+- 🌐 Web: https://github.com/liguochun0304/liguochun.github.io
+- 📫 How to reach me: liguochun0304@163.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Work
+### Multimodal & Information Extraction
+- **AFNER: Multimodal Named Entity Recognition on Social Media Platforms**
+  Addresses the poor adaptability of traditional single-modal recognition methods to heterogeneous data (mixed text + multimodal content) on social media; improves the recognition accuracy of named entities in complex scenarios by fusing multimodal features and social media data adaptation strategies.
+  [Code Repository] https://github.com/liguochun0304/AFNER
