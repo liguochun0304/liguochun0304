@@ -26,3 +26,22 @@
 ### Social Media Public Opinion Analysis
 - [OctoSmartGraph](https://github.com/liguochun0304/OctoSmartGraph): Knowledge Graph-Driven Social Media Public Opinion Analysis System [paper 🚧 (TBD)]
   Addresses the challenges of scattered public opinion data, ambiguous semantic relevance, and low real-time analysis in social media; constructs a domain-specific knowledge graph for public opinion entities (e.g., events, users, topics) and integrates LLM-based sentiment analysis and event evolution tracking. Supports real-time monitoring of public opinion trends, key node identification, and risk early warning in complex scenarios.
+
+
+## Open Source Projects & Datasets
+### Technical Tools & Frameworks (System-Level)
+- [docker-quick-reference](https://github.com/liguochun0304/docker-quick-reference): Docker Practical Guide & Cheat Sheet 📚 [🚧 In Progress]
+  A concise and practical Docker reference document designed for developers and researchers. Covers core concepts, common commands, container orchestration, image building, and troubleshooting solutions. Features quick search, example-driven explanations, and scenario-based configuration templates to help users quickly master Docker for project deployment and environment management.
+  [![Stars](https://img.shields.io/github/stars/liguochun0304/docker-quick-reference?style=flat-square&logo=github)](https://github.com/liguochun0304/docker-quick-reference)
+  [![Forks](https://img.shields.io/github/forks/liguochun0304/docker-quick-reference?style=flat-square&logo=github)](https://github.com/liguochun0304/docker-quick-reference)
+
+- [fastapi-demo](https://github.com/liguochun0304/fastapi-demo): FastAPI Hands-On Tutorial & Project Template 🚀 [🚧 In Progress]
+  A practical FastAPI framework demonstration project with complete development specifications and best practices. Includes common features such as data validation, authentication authorization, database integration, and API documentation auto-generation. Provides modular project structure and reusable component examples, suitable for quickly building high-performance backend APIs for AI applications, data services, and research prototypes.
+  [![Stars](https://img.shields.io/github/stars/liguochun0304/fastapi-demo?style=flat-square&logo=github)](https://github.com/liguochun0304/fastapi-demo)
+  [![Forks](https://img.shields.io/github/forks/liguochun0304/fastapi-demo?style=flat-square&logo=github)](https://github.com/liguochun0304/fastapi-demo)
+
+### Multimodal Datasets
+- [NewsMKG](https://github.com/liguochun0304/NewsMKG): A Benchmark Towards Multimodal Knowledge Graph Extraction 📊 [🚧 In Progress]
+  A large-scale multimodal knowledge graph extraction dataset constructed based on real-world news data. Contains over [X] samples covering multiple domains (e.g., politics, economics, technology) with rich multimodal information (text, images, tables). Each sample is annotated with entity types, relation triples, and cross-modal alignment labels, supporting tasks such as multimodal named entity recognition, relation extraction, and knowledge graph construction. Designed to address the lack of high-quality multimodal KG datasets and promote research in cross-modal knowledge extraction.
+  [![Stars](https://img.shields.io/github/stars/liguochun0304/NewsMKG?style=flat-square&logo=github)](https://github.com/liguochun0304/NewsMKG)
+  [![Forks](https://img.shields.io/github/forks/liguochun0304/NewsMKG?style=flat-square&logo=github)](https://github.com/liguochun0304/NewsMKG)
