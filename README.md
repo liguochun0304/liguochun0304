@@ -13,8 +13,10 @@
 - 🎯 Interests: Travel, Movie-watching, Continuous Learning
 - 🔗 Links & Status:
   - Personal Website: 🔨 (Under Construction, temporarily 404)
-  - [Email](mailto:liguochun0304@163.com)
-
+  - 📧 [Email](mailto:liguochun0304@163.com)
+  - 𝕏 [Twitter/X]([https://x.com/你的用户名](https://x.com/Lee_spring0304))
+  - 💼 [LinkedIn](https://www.linkedin.com/in/guochun-li-7393b72b3/)
+  - 📚 [知乎]([https://www.zhihu.com/people/你的用户名](https://www.zhihu.com/people/nevergiveuphhh))
 
 ## Research Work
 ### Multimodal Named Entity Recognition & Relation Extraction
